@@ -12,7 +12,6 @@ import com.badmuriss.testproject.repositories.UserRepository;
 @Service
 public class UserService {
 
-	
 	@Autowired
 	private UserRepository repository;
 	
